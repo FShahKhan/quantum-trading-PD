@@ -1,6 +1,6 @@
 # Quantum Advantage in Strategic Markets
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FShahKhan/quantum-trading-PD/blob/main/quantum_market_simulation.ipynb)
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/FShahKhan/quantum-trading-PD/blob/main/quantum_market_PD_valid.ipynb)
 
 
 This notebook simulates the strategic advantage of quantum traders in financial markets, based on the framework from *Khan et al. (2025)*:  
