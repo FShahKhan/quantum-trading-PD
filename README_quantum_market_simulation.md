@@ -38,4 +38,5 @@ Open and run `quantum_market_simulation.ipynb` in [Google Colab](https://colab.r
 
 ## License
 
-MIT License — feel free to use, modify, and cite.
+This work is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).
+
